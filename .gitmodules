@@ -1,0 +1,3 @@
+[submodule "nubox"]
+	path = nubox
+	url = git@git.vauxoo.com:vauxoo/nubox.git
