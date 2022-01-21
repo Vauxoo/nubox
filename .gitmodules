@@ -1,3 +1,7 @@
 [submodule "nubox"]
 	path = nubox
 	url = git@git.vauxoo.com:vauxoo/nubox.git
+[submodule "mexico"]
+	path = mexico
+	url = git@git.vauxoo.com:vauxoo/mexico.git
+	branch = 15.0
