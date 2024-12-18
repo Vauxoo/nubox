@@ -1,7 +1,9 @@
 [submodule "nubox"]
 	path = nubox
 	url = git@git.vauxoo.com:vauxoo/nubox.git
-[submodule "mexico"]
-	path = mexico
-	url = git@git.vauxoo.com:vauxoo/mexico.git
-	branch = 15.0
+	branch = 18.0
+
+[submodule "l10n-mx-edi-autosent-edi-document"]
+	path = l10n-mx-edi-autosent-edi-document
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-autosent-edi-document.git
+	branch = 18.0
