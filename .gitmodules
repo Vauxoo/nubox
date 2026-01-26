@@ -5,5 +5,5 @@
 
 [submodule "l10n-mx-edi-autosent-edi-document"]
 	path = l10n-mx-edi-autosent-edi-document
-	url = git@git.vauxoo.com:mexico/l10n-mx-edi-autosent-edi-document.git
-	branch = 18.0
+	url = git@git.vauxoo.com:mexico-dev/l10n-mx-edi-autosent-edi-document.git
+	branch = 18.0-ids_to_process-hbto
